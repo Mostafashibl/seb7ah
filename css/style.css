@@ -2,6 +2,9 @@
     --border-color:#2F4858 ;
     --main-border-raduis: 20px;
 }
+*{
+    box-sizing: border-box;
+}
 body{
     height: 100vh;
     display: flex;
